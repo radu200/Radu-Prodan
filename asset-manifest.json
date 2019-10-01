@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Radu-Prodan/static/css/main.890f2127.chunk.css",
-    "main.js": "/Radu-Prodan/static/js/main.9f6d1b6f.chunk.js",
-    "main.js.map": "/Radu-Prodan/static/js/main.9f6d1b6f.chunk.js.map",
-    "runtime-main.js": "/Radu-Prodan/static/js/runtime-main.3a36ffe7.js",
-    "runtime-main.js.map": "/Radu-Prodan/static/js/runtime-main.3a36ffe7.js.map",
-    "static/js/2.54bdc91d.chunk.js": "/Radu-Prodan/static/js/2.54bdc91d.chunk.js",
-    "static/js/2.54bdc91d.chunk.js.map": "/Radu-Prodan/static/js/2.54bdc91d.chunk.js.map",
-    "index.html": "/Radu-Prodan/index.html",
-    "precache-manifest.4e6d158c1fc18383c7704027ca406b07.js": "/Radu-Prodan/precache-manifest.4e6d158c1fc18383c7704027ca406b07.js",
-    "service-worker.js": "/Radu-Prodan/service-worker.js",
-    "static/css/main.890f2127.chunk.css.map": "/Radu-Prodan/static/css/main.890f2127.chunk.css.map",
-    "static/media/aerlux.png": "/Radu-Prodan/static/media/aerlux.027e218f.png",
-    "static/media/book_search.png": "/Radu-Prodan/static/media/book_search.c955778f.png",
-    "static/media/profile-img.jpg": "/Radu-Prodan/static/media/profile-img.c92f4e0d.jpg"
+    "main.css": "/static/css/main.890f2127.chunk.css",
+    "main.js": "/static/js/main.98077079.chunk.js",
+    "main.js.map": "/static/js/main.98077079.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b95ec835.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b95ec835.js.map",
+    "static/js/2.54bdc91d.chunk.js": "/static/js/2.54bdc91d.chunk.js",
+    "static/js/2.54bdc91d.chunk.js.map": "/static/js/2.54bdc91d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.22d33ed3eb36c368c00eda4948e621f9.js": "/precache-manifest.22d33ed3eb36c368c00eda4948e621f9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.890f2127.chunk.css.map": "/static/css/main.890f2127.chunk.css.map",
+    "static/media/aerlux.png": "/static/media/aerlux.027e218f.png",
+    "static/media/book_search.png": "/static/media/book_search.c955778f.png",
+    "static/media/profile-img.jpg": "/static/media/profile-img.c92f4e0d.jpg"
   }
 }
