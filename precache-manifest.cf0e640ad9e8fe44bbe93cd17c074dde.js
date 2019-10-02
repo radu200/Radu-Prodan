@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77c5c37884aefe6463cf35578fe94b48",
+    "revision": "82bcb16ac431a2d4ee4611676c62ac61",
     "url": "/index.html"
   },
   {
-    "revision": "2a021a18922466373675",
-    "url": "/static/css/main.efae0db7.chunk.css"
+    "revision": "e1dcd52527bbb9e8a0d1",
+    "url": "/static/css/main.57f0708b.chunk.css"
   },
   {
-    "revision": "ec204e8e42f0c9c57ab9",
-    "url": "/static/js/2.f80f57a4.chunk.js"
+    "revision": "168417fbb0d3b8a7ed53",
+    "url": "/static/js/2.e2f17c76.chunk.js"
   },
   {
-    "revision": "2a021a18922466373675",
-    "url": "/static/js/main.a70bdbf1.chunk.js"
+    "revision": "e1dcd52527bbb9e8a0d1",
+    "url": "/static/js/main.465438ff.chunk.js"
   },
   {
     "revision": "2a655c6dc63db212a7ea",
@@ -28,8 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/book_search.c955778f.png"
   },
   {
+    "revision": "1c9f1876e842c7c2520980b827e26b84",
+    "url": "/static/media/flickr.1c9f1876.png"
+  },
+  {
     "revision": "c92f4e0d6f446228eed0e1d91c6058e0",
     "url": "/static/media/profile-img.c92f4e0d.jpg"
+  },
+  {
+    "revision": "6f2b94ef06a8f83cebd3dd6c1473633e",
+    "url": "/static/media/recruitment-app.6f2b94ef.png"
   },
   {
     "revision": "be6362eb9d76c46ed4ee105cc28cb922",
