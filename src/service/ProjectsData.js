@@ -5,16 +5,24 @@ import BookSearch from './../images/book_search.png'
 export const ProjectsData  = [
     {
         'title':'Online Store',
-        'description':'Ecommerce shop for selling digital products including features like account,search filters, shopping cart, authentication, payment gateway paypal and stripe, dashboard with product management etc',
-        'tech': ['Html5', 'handlebars', 'css/scss','node.js,','express.js', 'javascript', 'jquery','webpack'],
+        'description':'Ecommerce shop for selling digital products including features like user roles & permissions, account,search filters, shopping cart, authentication, payment gateway paypal and stripe, dashboard with product management etc',
+        'tech': ['Html5', 'handlebars', 'css/scss','node.js,','express.js', 'mysql', 'javascript', 'jquery','webpack'],
          'demoLink':'sdnflk',
          'sourceCodeLink':'https://github.com/radu200/Nodejs-Ecommerce-Store',
          'image':OnlineStore
      },
+     {
+         'title':'Recruitment Web App',
+         'description':'Recruitment Web App still in progress.Icludind features like candidate  search, job search, user roles & permissions,account,authentication etc.',
+         'tech': ['react/redux','css/scss', 'material-ui', 'materialize-css','node.js/express.js', 'mysql', 'webpack', 'jest/enzyme' ],
+          'demoLink':'https://aerlux.md',
+          'sourceCodeLink':'',
+          'image':Aerlux
+      },
    {
        'title':'Aerlux.com',
-       'description':'Aerlux.com is a travel fare aggregator website and travel metasearch engine for lodging reservations.Worked as a part of a small focused team on features like : search, calendar,resposive-design,dashboards',
-       'tech': ['Html5','css/scss', 'bootstrap', 'javascript', 'jquery','react',],
+       'description':'Aerlux.com is a travel fare aggregator website and travel metasearch engine for lodging reservations.Worked as a part of a small focused team on features like : search, calendar,resposive-design etc.',
+       'tech': ['Html5','css/scss', 'bootstrap', 'javascript', 'jquery','react', 'jest'],
         'demoLink':'https://aerlux.md',
         'sourceCodeLink':'',
         'image':Aerlux
