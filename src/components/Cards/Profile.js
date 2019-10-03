@@ -8,7 +8,7 @@ function ProfileCard() {
       <img src={avatar} alt="Radu Prodan" className="ProfileImg"/>
         <div className="w3-container w3-white">
         <h4><b>Radu Prodan</b></h4>
-        <p>Follow me on <a href="https://www.linkedin.com/in/prodanradu/">LinkedIn</a> or <a href="https://github.com/radu200" >GitHub </a></p>
+          <p>Follow me on <a href="https://www.linkedin.com/in/prodanradu/ " target="_blank" rel="noopener noreferrer">LinkedIn</a> or <a href="https://github.com/radu200"target="_blank" rel="noopener noreferrer" >GitHub </a></p>
         </div>
     </div><hr/> 
   </div>

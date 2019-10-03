@@ -23,11 +23,11 @@ function Aerlux() {
                 <div className="w3-row">
                 {data.demoLink ? 
                 <div className="w3-col m2 s6">
-                  <p><button className="w3-button w3-padding-large  w3-white w3-border "><b> <a href={data.demoLink} target="_blank">DEMO »</a></b></button></p>
+                  <p><button className="w3-button w3-padding-large  w3-white w3-border "><b> <a href={data.demoLink} target="_blank" rel="noopener noreferrer">DEMO »</a></b></button></p>
                 </div> :null }
                 {data.sourceCodeLink ? 
                 <div className="w3-col m2 s6">
-                   <p><button className="w3-button w3-padding-large  w3-white w3-border   "><b> <a href={data.sourceCodeLink} target="_bank">Source Code »</a></b></button></p>
+                   <p><button className="w3-button w3-padding-large  w3-white w3-border   "><b> <a href={data.sourceCodeLink} target="_bank" rel="noopener noreferrer">Source Code »</a></b></button></p>
                 </div> : null }
               
               </div>
