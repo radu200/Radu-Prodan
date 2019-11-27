@@ -1,9 +1,10 @@
 import Aerlux from './../images/aerlux.png'
 import OnlineStore from './../images/shop.png'
-import BookSearch from './../images/book_search.png'
 import JobApp from '../images/recruitment-app.png'
 import Flickr from '../images/flickr.png'
 import WeatherApp from '../images/weather-app.png'
+
+
 export const ProjectsData  = [
     {
         'title':'Recruitment Web App',
@@ -31,14 +32,7 @@ export const ProjectsData  = [
          'sourceCodeLink':'https://github.com/radu200/Nodejs-Ecommerce-Store',
          'image':OnlineStore
      },
-   {
-       'title':'Aerlux.com',
-       'description':'Aerlux.com is a travel fare aggregator website and travel metasearch engine for lodging reservations.Worked as a part of a small focused team on features like : search, calendar,resposive-design etc.',
-       'tech': ['html5','css/scss', 'bootstrap', 'javascript', 'jquery','react', 'jest'],
-        'demoLink':'https://aerlux.md',
-        'sourceCodeLink':'',
-        'image':Aerlux
-    },
+ 
     {
         'title':'Flickr App',
         'description':'Implement a simple web front-end using React to search and display images from the flickr public API.',
@@ -47,13 +41,14 @@ export const ProjectsData  = [
          'sourceCodeLink':'https://github.com/radu200/flickr-react',
          'image':Flickr
      },
-    {
-        'title':'Search A Book',
-        'description':'Implement a simple web front-end using React to search and display a book  from Google API.',
-        'tech': ['html5', 'css', 'react', 'bootstrap', 'javascript'],
-         'demoLink':'https://radu200.github.io/BooksSearch/',
-         'sourceCodeLink':'https://github.com/radu200/BooksSearch/tree/master',
-         'image':BookSearch
+
+     {
+        'title':'Aerlux.com',
+        'description':'Aerlux.com is a travel fare aggregator website and travel metasearch engine for lodging reservations.Worked as a part of a small focused team on features like : search, calendar,resposive-design etc.',
+        'tech': ['html5','css/scss', 'bootstrap', 'javascript', 'jquery','react', 'jest'],
+         'demoLink':'https://aerlux.md',
+         'sourceCodeLink':'',
+         'image':Aerlux
      },
      
     
