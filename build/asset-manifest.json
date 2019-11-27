@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.57f0708b.chunk.css",
-    "main.js": "/static/js/main.28441bae.chunk.js",
-    "main.js.map": "/static/js/main.28441bae.chunk.js.map",
+    "main.js": "/static/js/main.0163d823.chunk.js",
+    "main.js.map": "/static/js/main.0163d823.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b95ec835.js",
     "runtime-main.js.map": "/static/js/runtime-main.b95ec835.js.map",
     "static/js/2.e2f17c76.chunk.js": "/static/js/2.e2f17c76.chunk.js",
     "static/js/2.e2f17c76.chunk.js.map": "/static/js/2.e2f17c76.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6f57cb3da93ec81aae252a1f68a7192a.js": "/precache-manifest.6f57cb3da93ec81aae252a1f68a7192a.js",
+    "precache-manifest.3d5a1439bb56907854ac1bde779d15af.js": "/precache-manifest.3d5a1439bb56907854ac1bde779d15af.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.57f0708b.chunk.css.map": "/static/css/main.57f0708b.chunk.css.map",
     "static/media/aerlux.png": "/static/media/aerlux.027e218f.png",
-    "static/media/book_search.png": "/static/media/book_search.c955778f.png",
-    "static/media/flickr.png": "/static/media/flickr.1c9f1876.png",
+    "static/media/flickr.png": "/static/media/flickr.cf8fd92b.png",
     "static/media/profile-img.jpg": "/static/media/profile-img.c92f4e0d.jpg",
     "static/media/recruitment-app.png": "/static/media/recruitment-app.6f2b94ef.png",
-    "static/media/shop.png": "/static/media/shop.be6362eb.png"
+    "static/media/shop.png": "/static/media/shop.be6362eb.png",
+    "static/media/weather-app.png": "/static/media/weather-app.c15ccc5c.png"
   }
 }
